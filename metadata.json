@@ -1,0 +1,8 @@
+{
+  "name": "Chefie: AI Kitchen Companion",
+  "description": "A top-down interactive AI kitchen game app designed for modular kitchens, providing emotional support, gamified cooking tasks, and real-time gesture interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
